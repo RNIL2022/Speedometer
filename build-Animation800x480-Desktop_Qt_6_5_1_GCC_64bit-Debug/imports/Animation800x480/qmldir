@@ -1,0 +1,11 @@
+module Animation800x480
+linktarget Animation800x480plugin
+optional plugin Animation800x480plugin
+classname Animation800x480Plugin
+typeinfo Animation800x480.qmltypes
+prefer :/Animation800x480/
+Constants 1.0 Constants.qml
+DirectoryFontLoader 1.0 DirectoryFontLoader.qml
+EventListModel 1.0 EventListModel.qml
+EventListSimulator 1.0 EventListSimulator.qml
+

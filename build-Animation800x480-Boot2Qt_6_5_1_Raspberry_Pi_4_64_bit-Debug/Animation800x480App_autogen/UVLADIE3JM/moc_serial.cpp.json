@@ -1,0 +1,131 @@
+{
+    "classes": [
+        {
+            "className": "ReceiverThread",
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "sdata",
+                    "notify": "sdataChanged",
+                    "read": "sdata",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setSdata"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "name",
+                    "notify": "nameChanged",
+                    "read": "name",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setName"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "temp",
+                    "notify": "tempChanged",
+                    "read": "temp",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setTemp"
+                }
+            ],
+            "qualifiedClassName": "ReceiverThread",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "s",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "request",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "s",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "error",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "s",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "timeout",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "sdataChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "nameChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "tempChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "name": "setSdata",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "setName",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "setTemp",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QThread"
+                }
+            ]
+        }
+    ],
+    "inputFile": "serial.h",
+    "outputRevision": 68
+}

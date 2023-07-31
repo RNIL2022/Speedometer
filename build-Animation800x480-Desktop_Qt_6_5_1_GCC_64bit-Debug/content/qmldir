@@ -1,0 +1,17 @@
+module content
+linktarget contentplugin
+optional plugin contentplugin
+classname contentPlugin
+typeinfo content.qmltypes
+prefer :/content/
+App 1.0 App.qml
+InnerRing 1.0 InnerRing.qml
+RightElement 1.0 RightElement.qml
+SpeedNeedle 1.0 SpeedNeedle.qml
+SpeedoDigits 1.0 SpeedoDigits.qml
+Speedometer 1.0 Speedometer.qml
+LeftElement 1.0 LeftElement.qml
+KWNeedle 1.0 KWNeedle.qml
+LElementsModel 1.0 LElementsModel.qml
+Screen01 1.0 Screen01.ui.qml
+

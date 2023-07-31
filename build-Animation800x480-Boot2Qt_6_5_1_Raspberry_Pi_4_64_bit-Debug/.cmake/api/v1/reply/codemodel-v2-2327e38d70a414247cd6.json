@@ -1,0 +1,647 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ddca62120f848324a99d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						32,
+						33,
+						34,
+						35
+					]
+				},
+				{
+					"build" : "content",
+					"jsonFile" : "directory-content-Debug-61a361743d88a3b42c45.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "content",
+					"targetIndexes" : 
+					[
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58
+					]
+				},
+				{
+					"build" : "imports",
+					"childIndexes" : 
+					[
+						3
+					],
+					"jsonFile" : "directory-imports-Debug-615074570c3908afab44.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "imports"
+				},
+				{
+					"build" : "imports/Animation800x480",
+					"jsonFile" : "directory-imports.Animation800x480-Debug-9d2405d3cf9463540d92.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "imports/Animation800x480",
+					"targetIndexes" : 
+					[
+						0,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31
+					]
+				},
+				{
+					"build" : "asset_imports",
+					"jsonFile" : "directory-asset_imports-Debug-2ed6391b6c99f0160f93.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "asset_imports"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "Animation800x480App",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480-Debug-726101725c62fa2ac4c1.json",
+					"name" : "Animation800x480",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Animation800x480App::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Animation800x480App-Debug-8d2399bed1446d0865a4.json",
+					"name" : "Animation800x480App",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Animation800x480App_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Animation800x480App_autogen-Debug-dc1068bd080b0772400f.json",
+					"name" : "Animation800x480App_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Animation800x480App_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Animation800x480App_autogen_timestamp_deps-Debug-263d0819b666f1dcda20.json",
+					"name" : "Animation800x480App_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Animation800x480App_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Animation800x480App_qmlimportscan-Debug-9cc77112ffbdc95ff780.json",
+					"name" : "Animation800x480App_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Animation800x480App_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Animation800x480App_qmllint-Debug-b4c456475dc7abfd0faa.json",
+					"name" : "Animation800x480App_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Animation800x480App_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Animation800x480App_qmllint_json-Debug-ac0360707adcadaffc9c.json",
+					"name" : "Animation800x480App_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Animation800x480App_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Animation800x480App_qmllint_module-Debug-cc3847c1f68d22c12e67.json",
+					"name" : "Animation800x480App_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Animation800x480App_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Animation800x480App_qmltyperegistration-Debug-8e2a278ef96d1b8bab25.json",
+					"name" : "Animation800x480App_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Animation800x480App_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Animation800x480App_tooling-Debug-2e0a4f3d845bd4dfe50e.json",
+					"name" : "Animation800x480App_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480_autogen::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480_autogen-Debug-abbb879cf7916120445d.json",
+					"name" : "Animation800x480_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480_autogen_timestamp_deps::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480_autogen_timestamp_deps-Debug-74f50d9db12e8bdb3f8e.json",
+					"name" : "Animation800x480_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480_qmlcache::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480_qmlcache-Debug-d31242e550a218a444c1.json",
+					"name" : "Animation800x480_qmlcache",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480_qmlcache_autogen::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480_qmlcache_autogen-Debug-cda12b01f0a11fe35be0.json",
+					"name" : "Animation800x480_qmlcache_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480_qmlcache_autogen_timestamp_deps::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480_qmlcache_autogen_timestamp_deps-Debug-ed76d0e992a9d2e60c80.json",
+					"name" : "Animation800x480_qmlcache_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480_qmllint::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480_qmllint-Debug-ff5f6438064b2952ad11.json",
+					"name" : "Animation800x480_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480_qmllint_json::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480_qmllint_json-Debug-af87e149ff7273175976.json",
+					"name" : "Animation800x480_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480_qmllint_module::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480_qmllint_module-Debug-6ca9694abf31200e413c.json",
+					"name" : "Animation800x480_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480_qmltyperegistration::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480_qmltyperegistration-Debug-ded265339c9fd1a45f9b.json",
+					"name" : "Animation800x480_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480_resources_1::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480_resources_1-Debug-fca9872e7744ad1472b8.json",
+					"name" : "Animation800x480_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480_resources_1_autogen::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480_resources_1_autogen-Debug-c08b738747622cff4b30.json",
+					"name" : "Animation800x480_resources_1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480_resources_1_autogen_timestamp_deps::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480_resources_1_autogen_timestamp_deps-Debug-cbd81083443285190718.json",
+					"name" : "Animation800x480_resources_1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480_resources_2::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480_resources_2-Debug-8e75e15d7103f112a905.json",
+					"name" : "Animation800x480_resources_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480_resources_2_autogen::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480_resources_2_autogen-Debug-c3887db4a901651efd7b.json",
+					"name" : "Animation800x480_resources_2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480_resources_2_autogen_timestamp_deps::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480_resources_2_autogen_timestamp_deps-Debug-61c50be02dbe0c6cef02.json",
+					"name" : "Animation800x480_resources_2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480_tooling::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480_tooling-Debug-dcc935c9ee6043868f52.json",
+					"name" : "Animation800x480_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480plugin::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480plugin-Debug-f7cdedcd63de9f21b68f.json",
+					"name" : "Animation800x480plugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480plugin_autogen::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480plugin_autogen-Debug-c6d7d3bd3ec5a72de166.json",
+					"name" : "Animation800x480plugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480plugin_autogen_timestamp_deps::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480plugin_autogen_timestamp_deps-Debug-ce37ea2d8e2c9186f170.json",
+					"name" : "Animation800x480plugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480plugin_init::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480plugin_init-Debug-9265dd1baf13668986dd.json",
+					"name" : "Animation800x480plugin_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480plugin_init_autogen::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480plugin_init_autogen-Debug-f524129ccad9da3b2e3d.json",
+					"name" : "Animation800x480plugin_init_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Animation800x480plugin_init_autogen_timestamp_deps::@f1b626f1cad8a1478eee",
+					"jsonFile" : "target-Animation800x480plugin_init_autogen_timestamp_deps-Debug-e1a2ea3085724c2a455b.json",
+					"name" : "Animation800x480plugin_init_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-71c7f92dc1f2b5f12107.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-0d796c0db43cce1f5694.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-8e961ca899acf40e41b6.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-be58119572514453893a.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content-Debug-ff2bcc81b20e0a8c7fe3.json",
+					"name" : "content",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_autogen::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_autogen-Debug-fa27a63c1f6a3147b721.json",
+					"name" : "content_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_autogen_timestamp_deps::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_autogen_timestamp_deps-Debug-c3ef6659d88e803ba763.json",
+					"name" : "content_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_qmlcache::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmlcache-Debug-6176295a463c3537ec81.json",
+					"name" : "content_qmlcache",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_qmlcache_autogen::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmlcache_autogen-Debug-f68b9c8ae349f51172e5.json",
+					"name" : "content_qmlcache_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_qmlcache_autogen_timestamp_deps::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmlcache_autogen_timestamp_deps-Debug-f55a3d85506aae4dcc0b.json",
+					"name" : "content_qmlcache_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_qmllint::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmllint-Debug-e372963b8633eb51fdf1.json",
+					"name" : "content_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_qmllint_json::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmllint_json-Debug-9561b2a48993ed294835.json",
+					"name" : "content_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_qmllint_module::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmllint_module-Debug-42739dfb8feea63983ec.json",
+					"name" : "content_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_qmltyperegistration::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmltyperegistration-Debug-5433e3378c2bff5d34f5.json",
+					"name" : "content_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_resources_1::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_resources_1-Debug-95b3bacbbcdcfeeb9a47.json",
+					"name" : "content_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_resources_1_autogen::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_resources_1_autogen-Debug-e9d8428c0fa4549db8f8.json",
+					"name" : "content_resources_1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_resources_1_autogen_timestamp_deps::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_resources_1_autogen_timestamp_deps-Debug-8210d533e9a7153e3a7d.json",
+					"name" : "content_resources_1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_resources_2::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_resources_2-Debug-0e57c013b82f5945f3f0.json",
+					"name" : "content_resources_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_resources_2_autogen::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_resources_2_autogen-Debug-fe452442902bc4fdc29d.json",
+					"name" : "content_resources_2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_resources_2_autogen_timestamp_deps::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_resources_2_autogen_timestamp_deps-Debug-3597eb627d10fe3704e2.json",
+					"name" : "content_resources_2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_tooling::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_tooling-Debug-3183cba875160b99ab08.json",
+					"name" : "content_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "contentplugin::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin-Debug-1e17c64ab86d03118cd6.json",
+					"name" : "contentplugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "contentplugin_autogen::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin_autogen-Debug-25c8ec34c91edd19f74b.json",
+					"name" : "contentplugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "contentplugin_autogen_timestamp_deps::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin_autogen_timestamp_deps-Debug-79d0543ea94cd8dc10e4.json",
+					"name" : "contentplugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "contentplugin_init::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin_init-Debug-c84afe41a4b26516428e.json",
+					"name" : "contentplugin_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "contentplugin_init_autogen::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin_init_autogen-Debug-aecd03a3344c371e685e.json",
+					"name" : "contentplugin_init_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "contentplugin_init_autogen_timestamp_deps::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin_init_autogen_timestamp_deps-Debug-dcb52335e50ad83cfd30.json",
+					"name" : "contentplugin_init_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kunal/New_Screen/build-Animation800x480-Boot2Qt_6_5_1_Raspberry_Pi_4_64_bit-Debug",
+		"source" : "/home/kunal/New_Screen/Animation800x480"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

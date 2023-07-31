@@ -1,0 +1,892 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "content/libcontent.a"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt6_add_library",
+			"qt_add_library",
+			"add_dependencies",
+			"qt6_target_qml_sources",
+			"qt6_add_qml_module",
+			"target_link_libraries",
+			"target_include_directories",
+			"_qt_internal_qml_type_registration",
+			"target_sources",
+			"qt6_extract_metatypes",
+			"_qt_internal_expose_deferred_files_to_ide",
+			"qt6_finalize_target"
+		],
+		"files" : 
+		[
+			"/home/kunal/Qt/6.5.1/gcc_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"content/CMakeLists.txt",
+			"/home/kunal/Qt/6.5.1/gcc_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"/home/kunal/Qt/6.5.1/gcc_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:679:EVAL"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 2313,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 2217,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2291,
+				"parent" : 3
+			},
+			{
+				"command" : 6,
+				"file" : 1,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 625,
+				"parent" : 5
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 2273,
+				"parent" : 6
+			},
+			{
+				"command" : 7,
+				"file" : 2,
+				"line" : 369,
+				"parent" : 5
+			},
+			{
+				"command" : 9,
+				"file" : 2,
+				"line" : 532,
+				"parent" : 5
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 2629,
+				"parent" : 9
+			},
+			{
+				"command" : 11,
+				"file" : 2,
+				"line" : 2409,
+				"parent" : 9
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 1124,
+				"parent" : 11
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2595,
+				"parent" : 9
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2062,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2215,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2062,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2215,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2062,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2215,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2062,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2215,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2062,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2215,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2062,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2215,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2062,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2215,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2062,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2215,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2062,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2215,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2062,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2215,
+				"parent" : 6
+			},
+			{
+				"file" : 1,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 13,
+				"file" : 3,
+				"line" : 1,
+				"parent" : 34
+			},
+			{
+				"command" : 12,
+				"file" : 0,
+				"line" : 704,
+				"parent" : 35
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 1780,
+				"parent" : 36
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG -g"
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "-fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 8,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_QML_LIB"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content"
+				},
+				{
+					"path" : "/home/kunal/New_Screen/Animation800x480/content"
+				},
+				{
+					"backtrace" : 0,
+					"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/content_autogen/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/home/kunal/Qt/6.5.1/gcc_64/include/QtQml/6.5.1"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/home/kunal/Qt/6.5.1/gcc_64/include/QtQml/6.5.1/QtQml"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/home/kunal/Qt/6.5.1/gcc_64/include/QtCore/6.5.1"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/home/kunal/Qt/6.5.1/gcc_64/include/QtCore/6.5.1/QtCore"
+				},
+				{
+					"backtrace" : 10,
+					"isSystem" : true,
+					"path" : "/home/kunal/Qt/6.5.1/gcc_64/include/QtCore"
+				},
+				{
+					"backtrace" : 10,
+					"isSystem" : true,
+					"path" : "/home/kunal/Qt/6.5.1/gcc_64/include"
+				},
+				{
+					"backtrace" : 10,
+					"isSystem" : true,
+					"path" : "/home/kunal/Qt/6.5.1/gcc_64/mkspecs/linux-g++"
+				},
+				{
+					"backtrace" : 10,
+					"isSystem" : true,
+					"path" : "/home/kunal/Qt/6.5.1/gcc_64/include/QtQml"
+				},
+				{
+					"backtrace" : 10,
+					"isSystem" : true,
+					"path" : "/home/kunal/Qt/6.5.1/gcc_64/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 10,
+					"isSystem" : true,
+					"path" : "/home/kunal/Qt/6.5.1/gcc_64/include/QtNetwork"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				4,
+				6,
+				8,
+				10,
+				12,
+				14,
+				16,
+				18,
+				20,
+				22
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 7,
+			"id" : "content_tooling::@73a38b9e525c9c2ae262"
+		},
+		{
+			"id" : "content_autogen_timestamp_deps::@73a38b9e525c9c2ae262"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "content_autogen::@73a38b9e525c9c2ae262"
+		}
+	],
+	"id" : "content::@73a38b9e525c9c2ae262",
+	"name" : "content",
+	"nameOnDisk" : "libcontent.a",
+	"paths" : 
+	{
+		"build" : "content",
+		"source" : "content"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				4,
+				6,
+				8,
+				10,
+				12,
+				14,
+				16,
+				18,
+				20,
+				22
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				1,
+				3,
+				5,
+				7,
+				9,
+				11,
+				13,
+				15,
+				17,
+				19,
+				21,
+				23,
+				25,
+				26,
+				27,
+				28,
+				30,
+				31,
+				53,
+				68,
+				69,
+				70
+			]
+		},
+		{
+			"name" : "Resources",
+			"sourceIndexes" : 
+			[
+				24,
+				29,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/content_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 12,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/meta_types/qt6content_debug_metatypes.json.gen",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/content_qmltyperegistrations.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"path" : "content/App.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 15,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/.rcc/qmlcache/content_App_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 16,
+			"path" : "content/InnerRing.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 17,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/.rcc/qmlcache/content_InnerRing_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 18,
+			"path" : "content/RightElement.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 19,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/.rcc/qmlcache/content_RightElement_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 20,
+			"path" : "content/SpeedNeedle.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 21,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/.rcc/qmlcache/content_SpeedNeedle_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 22,
+			"path" : "content/SpeedoDigits.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 23,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/.rcc/qmlcache/content_SpeedoDigits_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"path" : "content/Speedometer.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 25,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/.rcc/qmlcache/content_Speedometer_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "content/LeftElement.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/.rcc/qmlcache/content_LeftElement_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 28,
+			"path" : "content/KWNeedle.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 29,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/.rcc/qmlcache/content_KWNeedle_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 30,
+			"path" : "content/LElementsModel.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 31,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/.rcc/qmlcache/content_LElementsModel_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 32,
+			"path" : "content/Screen01.ui.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 33,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/.rcc/qmlcache/content_Screen01.ui_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 37,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/qmldir",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/arrow.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/arrow-down-solid.svg",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/arrow-left-solid.svg",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/arrow-right-solid.svg",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/arrow-up-solid.svg",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/Background.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/battery-full.webp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/battery-full-solid.svg",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/bg.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/call.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/call-disconnected.jpeg",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/Efficiency.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/Empty.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/Energy.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/Lade-Balken.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/Media.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/Music.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/Navi.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/Numbers.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/Range.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/Street.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/Tacho.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/Tacho_Mitte.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/temp.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/Tile.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/Trips.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/pics/wifi.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/images/EscortsLogo-removebg-preview.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "content/images/Kubota-Logo.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/content_autogen/timestamp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/meta_types/qt6content_debug_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/content_qmltyperegistrations.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/.rcc/qmlcache/content_App_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/.rcc/qmlcache/content_InnerRing_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/.rcc/qmlcache/content_RightElement_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/.rcc/qmlcache/content_SpeedNeedle_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/.rcc/qmlcache/content_SpeedoDigits_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/.rcc/qmlcache/content_Speedometer_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/.rcc/qmlcache/content_LeftElement_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/.rcc/qmlcache/content_KWNeedle_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/.rcc/qmlcache/content_LElementsModel_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/.rcc/qmlcache/content_Screen01.ui_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/content_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/content/meta_types/content_json_file_list.txt.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 8,
+			"path" : "/home/kunal/Qt/6.5.1/gcc_64/metatypes/qt6qml_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 8,
+			"path" : "/home/kunal/Qt/6.5.1/gcc_64/metatypes/qt6core_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 8,
+			"path" : "/home/kunal/Qt/6.5.1/gcc_64/metatypes/qt6network_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

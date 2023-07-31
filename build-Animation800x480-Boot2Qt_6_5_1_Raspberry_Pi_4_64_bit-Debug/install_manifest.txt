@@ -1,0 +1,2 @@
+/usr/bin/Animation800x480App
+/opt/Animation800x480App

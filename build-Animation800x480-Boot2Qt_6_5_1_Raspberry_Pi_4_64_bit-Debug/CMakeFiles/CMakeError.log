@@ -1,0 +1,32 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux/aarch64-poky-linux-g++ 
+Build flags: -DQT_QML_DEBUG
+Id flags: -c;--target=aarch64-poky-linux 
+
+The output was:
+1
+aarch64-poky-linux-g++: error: unrecognized command-line option '--target=aarch64-poky-linux'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux/aarch64-poky-linux-g++ 
+Build flags: -DQT_QML_DEBUG
+Id flags:  
+
+The output was:
+1
+/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/12.2.0/ld: error: cannot open Scrt1.o: No such file or directory
+/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/12.2.0/ld: error: cannot open crti.o: No such file or directory
+/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/12.2.0/ld: error: cannot open crtbeginS.o: No such file or directory
+/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/12.2.0/ld: error: cannot open crtendS.o: No such file or directory
+/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/12.2.0/ld: error: cannot open crtn.o: No such file or directory
+/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/12.2.0/ld: error: cannot find -lstdc++
+/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/12.2.0/ld: error: cannot find -lm
+/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/12.2.0/ld: error: cannot find -lgcc_s
+/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/12.2.0/ld: error: cannot find -lgcc
+/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/12.2.0/ld: error: cannot find -lc
+/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/12.2.0/ld: error: cannot find -lgcc_s
+/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/12.2.0/ld: error: cannot find -lgcc
+collect2: error: ld returned 1 exit status
+
+

@@ -1,0 +1,279 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "imports/Animation800x480/CMakeFiles/Animation800x480_resources_2.dir/./Animation800x480_resources_2_autogen/mocs_compilation.cpp.o"
+		},
+		{
+			"path" : "imports/Animation800x480/CMakeFiles/Animation800x480_resources_2.dir/./.rcc/qrc_Animation800x480_raw_qml_0.cpp.o"
+		}
+	],
+	"backtrace" : 6,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"__qt_propagate_generated_resource",
+			"_qt_internal_process_resource",
+			"qt6_add_resources",
+			"qt6_target_qml_sources",
+			"qt6_add_qml_module",
+			"target_compile_definitions",
+			"set_property",
+			"_qt_internal_copy_dependency_properties",
+			"__qt_internal_propagate_object_library"
+		],
+		"files" : 
+		[
+			"/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux/usr/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux/usr/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"imports/Animation800x480/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 625,
+				"parent" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 2292,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 314,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 2043,
+				"parent" : 4
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1660,
+				"parent" : 5
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 1661,
+				"parent" : 5
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 1689,
+				"parent" : 5
+			},
+			{
+				"command" : 8,
+				"file" : 0,
+				"line" : 1605,
+				"parent" : 8
+			},
+			{
+				"command" : 7,
+				"file" : 0,
+				"line" : 2396,
+				"parent" : 9
+			},
+			{
+				"command" : 7,
+				"file" : 0,
+				"line" : 2396,
+				"parent" : 9
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-mcpu=cortex-a72 -march=armv8-a+crc -fstack-protector-strong   -Wformat -Wformat-security -Werror=format-security --sysroot=/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux -g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QML_LIB"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "/home/kunal/New_Screen/build-Animation800x480-Boot2Qt_6_5_1_Raspberry_Pi_4_64_bit-Debug/imports/Animation800x480"
+				},
+				{
+					"path" : "/home/kunal/New_Screen/Animation800x480/imports/Animation800x480"
+				},
+				{
+					"backtrace" : 0,
+					"path" : "/home/kunal/New_Screen/build-Animation800x480-Boot2Qt_6_5_1_Raspberry_Pi_4_64_bit-Debug/imports/Animation800x480/Animation800x480_resources_2_autogen/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/kunal/New_Screen/build-Animation800x480-Boot2Qt_6_5_1_Raspberry_Pi_4_64_bit-Debug/imports/Animation800x480/Animation800x480_autogen/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux/usr/include/QtQml/6.5.1"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux/usr/include/QtQml/6.5.1/QtQml"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux/usr/include/QtCore/6.5.1"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux/usr/include/QtCore/6.5.1/QtCore"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux/usr/include/QtCore"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux/usr/include/QtQml"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux/usr/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux/usr/include/QtNetwork"
+				},
+				{
+					"backtrace" : 11,
+					"isSystem" : true,
+					"path" : "/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux/usr/lib/mkspecs/linux-g++"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			],
+			"sysroot" : 
+			{
+				"path" : "/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux"
+			}
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "Animation800x480_resources_2_autogen_timestamp_deps::@f1b626f1cad8a1478eee"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Animation800x480_resources_2_autogen::@f1b626f1cad8a1478eee"
+		}
+	],
+	"id" : "Animation800x480_resources_2::@f1b626f1cad8a1478eee",
+	"name" : "Animation800x480_resources_2",
+	"paths" : 
+	{
+		"build" : "imports/Animation800x480",
+		"source" : "imports/Animation800x480"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				2
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				3,
+				4
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Boot2Qt_6_5_1_Raspberry_Pi_4_64_bit-Debug/imports/Animation800x480/Animation800x480_resources_2_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Boot2Qt_6_5_1_Raspberry_Pi_4_64_bit-Debug/imports/Animation800x480/.rcc/qrc_Animation800x480_raw_qml_0.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Boot2Qt_6_5_1_Raspberry_Pi_4_64_bit-Debug/imports/Animation800x480/Animation800x480_resources_2_autogen/timestamp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Boot2Qt_6_5_1_Raspberry_Pi_4_64_bit-Debug/imports/Animation800x480/.rcc/qrc_Animation800x480_raw_qml_0.cpp.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Boot2Qt_6_5_1_Raspberry_Pi_4_64_bit-Debug/imports/Animation800x480/Animation800x480_resources_2_autogen/timestamp.rule",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

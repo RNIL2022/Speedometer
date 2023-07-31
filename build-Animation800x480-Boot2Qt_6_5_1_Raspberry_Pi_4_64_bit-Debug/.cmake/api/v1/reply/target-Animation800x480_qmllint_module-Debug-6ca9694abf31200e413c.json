@@ -1,0 +1,98 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"_qt_internal_target_enable_qmllint",
+			"qt6_target_qml_sources",
+			"qt6_add_qml_module"
+		],
+		"files" : 
+		[
+			"/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux/usr/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"imports/Animation800x480/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 625,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 2080,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 849,
+				"parent" : 3
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QmlLinter"
+	},
+	"id" : "Animation800x480_qmllint_module::@f1b626f1cad8a1478eee",
+	"name" : "Animation800x480_qmllint_module",
+	"paths" : 
+	{
+		"build" : "imports/Animation800x480",
+		"source" : "imports/Animation800x480"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Boot2Qt_6_5_1_Raspberry_Pi_4_64_bit-Debug/imports/Animation800x480/CMakeFiles/Animation800x480_qmllint_module",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Boot2Qt_6_5_1_Raspberry_Pi_4_64_bit-Debug/imports/Animation800x480/CMakeFiles/Animation800x480_qmllint_module.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

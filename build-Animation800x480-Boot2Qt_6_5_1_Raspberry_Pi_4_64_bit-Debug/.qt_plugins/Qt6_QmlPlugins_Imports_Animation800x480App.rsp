@@ -1,0 +1,15 @@
+-rootPath
+/home/kunal/New_Screen/Animation800x480
+-cmake-output
+-output-file
+/home/kunal/New_Screen/build-Animation800x480-Boot2Qt_6_5_1_Raspberry_Pi_4_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_Animation800x480App.cmake
+-importPath
+/home/kunal/New_Screen/build-Animation800x480-Boot2Qt_6_5_1_Raspberry_Pi_4_64_bit-Debug/Main
+-importPath
+/home/kunal/New_Screen/build-Animation800x480-Boot2Qt_6_5_1_Raspberry_Pi_4_64_bit-Debug
+-importPath
+/home/kunal/Qt/6.5.1/Boot2Qt/raspberrypi4-64/toolchain/sysroots/cortexa72-poky-linux/usr/lib/qml
+-qrcFiles
+/home/kunal/New_Screen/build-Animation800x480-Boot2Qt_6_5_1_Raspberry_Pi_4_64_bit-Debug/.rcc/configuration.qrc
+/home/kunal/New_Screen/build-Animation800x480-Boot2Qt_6_5_1_Raspberry_Pi_4_64_bit-Debug/.rcc/qmake_Main.qrc
+/home/kunal/New_Screen/build-Animation800x480-Boot2Qt_6_5_1_Raspberry_Pi_4_64_bit-Debug/.rcc/Animation800x480App_raw_qml_0.qrc

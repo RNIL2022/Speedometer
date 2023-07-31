@@ -1,0 +1,279 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "imports/Animation800x480/libAnimation800x480plugin.a"
+		}
+	],
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt6_add_plugin",
+			"qt6_add_qml_plugin",
+			"qt6_add_qml_module",
+			"target_link_libraries",
+			"target_compile_definitions",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"/home/kunal/Qt/6.5.1/gcc_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"/home/kunal/Qt/6.5.1/gcc_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"imports/Animation800x480/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 603,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 1650,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 2104,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2291,
+				"parent" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 1783,
+				"parent" : 2
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 1779,
+				"parent" : 2
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 2171,
+				"parent" : 3
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 2109,
+				"parent" : 3
+			},
+			{
+				"command" : 7,
+				"file" : 1,
+				"line" : 1773,
+				"parent" : 2
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG -g"
+				},
+				{
+					"backtrace" : 7,
+					"fragment" : "-fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_PLUGIN"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_STATICPLUGIN"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/imports/Animation800x480"
+				},
+				{
+					"path" : "/home/kunal/New_Screen/Animation800x480/imports/Animation800x480"
+				},
+				{
+					"backtrace" : 0,
+					"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/imports/Animation800x480/Animation800x480plugin_autogen/include"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/home/kunal/Qt/6.5.1/gcc_64/include/QtQml"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/home/kunal/Qt/6.5.1/gcc_64/include"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/home/kunal/Qt/6.5.1/gcc_64/include/QtCore"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/home/kunal/Qt/6.5.1/gcc_64/mkspecs/linux-g++"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/home/kunal/Qt/6.5.1/gcc_64/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/home/kunal/Qt/6.5.1/gcc_64/include/QtNetwork"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 6,
+			"id" : "Animation800x480::@f1b626f1cad8a1478eee"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "Animation800x480_resources_1::@f1b626f1cad8a1478eee"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "Animation800x480_qmlcache::@f1b626f1cad8a1478eee"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "Animation800x480_resources_2::@f1b626f1cad8a1478eee"
+		},
+		{
+			"id" : "Animation800x480plugin_autogen_timestamp_deps::@f1b626f1cad8a1478eee"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Animation800x480plugin_autogen::@f1b626f1cad8a1478eee"
+		}
+	],
+	"id" : "Animation800x480plugin::@f1b626f1cad8a1478eee",
+	"name" : "Animation800x480plugin",
+	"nameOnDisk" : "libAnimation800x480plugin.a",
+	"paths" : 
+	{
+		"build" : "imports/Animation800x480",
+		"source" : "imports/Animation800x480"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				2
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				3
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/imports/Animation800x480/Animation800x480plugin_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 10,
+			"compileGroupIndex" : 0,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/imports/Animation800x480/Animation800x480plugin_Animation800x480Plugin.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/imports/Animation800x480/Animation800x480plugin_autogen/timestamp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/kunal/New_Screen/build-Animation800x480-Desktop_Qt_6_5_1_GCC_64bit-Debug/imports/Animation800x480/Animation800x480plugin_autogen/timestamp.rule",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

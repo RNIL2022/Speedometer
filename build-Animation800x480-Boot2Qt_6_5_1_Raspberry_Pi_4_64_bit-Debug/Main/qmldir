@@ -1,0 +1,4 @@
+module Main
+typeinfo Animation800x480App.qmltypes
+prefer :/Main/
+

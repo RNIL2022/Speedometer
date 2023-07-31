@@ -1,0 +1,44 @@
+<RCC>
+  <qresource prefix="/content/">
+    <file alias="App.qml">/home/kunal/New_Screen/Animation800x480/content/App.qml</file>
+    <file alias="InnerRing.qml">/home/kunal/New_Screen/Animation800x480/content/InnerRing.qml</file>
+    <file alias="RightElement.qml">/home/kunal/New_Screen/Animation800x480/content/RightElement.qml</file>
+    <file alias="SpeedNeedle.qml">/home/kunal/New_Screen/Animation800x480/content/SpeedNeedle.qml</file>
+    <file alias="SpeedoDigits.qml">/home/kunal/New_Screen/Animation800x480/content/SpeedoDigits.qml</file>
+    <file alias="Speedometer.qml">/home/kunal/New_Screen/Animation800x480/content/Speedometer.qml</file>
+    <file alias="LeftElement.qml">/home/kunal/New_Screen/Animation800x480/content/LeftElement.qml</file>
+    <file alias="KWNeedle.qml">/home/kunal/New_Screen/Animation800x480/content/KWNeedle.qml</file>
+    <file alias="LElementsModel.qml">/home/kunal/New_Screen/Animation800x480/content/LElementsModel.qml</file>
+    <file alias="Screen01.ui.qml">/home/kunal/New_Screen/Animation800x480/content/Screen01.ui.qml</file>
+    <file alias="pics/arrow.png">/home/kunal/New_Screen/Animation800x480/content/pics/arrow.png</file>
+    <file alias="pics/arrow-down-solid.svg">/home/kunal/New_Screen/Animation800x480/content/pics/arrow-down-solid.svg</file>
+    <file alias="pics/arrow-left-solid.svg">/home/kunal/New_Screen/Animation800x480/content/pics/arrow-left-solid.svg</file>
+    <file alias="pics/arrow-right-solid.svg">/home/kunal/New_Screen/Animation800x480/content/pics/arrow-right-solid.svg</file>
+    <file alias="pics/arrow-up-solid.svg">/home/kunal/New_Screen/Animation800x480/content/pics/arrow-up-solid.svg</file>
+    <file alias="pics/Background.png">/home/kunal/New_Screen/Animation800x480/content/pics/Background.png</file>
+    <file alias="pics/battery-full.webp">/home/kunal/New_Screen/Animation800x480/content/pics/battery-full.webp</file>
+    <file alias="pics/battery-full-solid.svg">/home/kunal/New_Screen/Animation800x480/content/pics/battery-full-solid.svg</file>
+    <file alias="pics/bg.png">/home/kunal/New_Screen/Animation800x480/content/pics/bg.png</file>
+    <file alias="pics/call.png">/home/kunal/New_Screen/Animation800x480/content/pics/call.png</file>
+    <file alias="pics/call-disconnected.jpeg">/home/kunal/New_Screen/Animation800x480/content/pics/call-disconnected.jpeg</file>
+    <file alias="pics/Efficiency.png">/home/kunal/New_Screen/Animation800x480/content/pics/Efficiency.png</file>
+    <file alias="pics/Empty.png">/home/kunal/New_Screen/Animation800x480/content/pics/Empty.png</file>
+    <file alias="pics/Energy.png">/home/kunal/New_Screen/Animation800x480/content/pics/Energy.png</file>
+    <file alias="pics/Lade-Balken.png">/home/kunal/New_Screen/Animation800x480/content/pics/Lade-Balken.png</file>
+    <file alias="pics/Media.png">/home/kunal/New_Screen/Animation800x480/content/pics/Media.png</file>
+    <file alias="pics/Music.png">/home/kunal/New_Screen/Animation800x480/content/pics/Music.png</file>
+    <file alias="pics/Navi.png">/home/kunal/New_Screen/Animation800x480/content/pics/Navi.png</file>
+    <file alias="pics/Numbers.png">/home/kunal/New_Screen/Animation800x480/content/pics/Numbers.png</file>
+    <file alias="pics/Range.png">/home/kunal/New_Screen/Animation800x480/content/pics/Range.png</file>
+    <file alias="pics/Street.png">/home/kunal/New_Screen/Animation800x480/content/pics/Street.png</file>
+    <file alias="pics/Tacho.png">/home/kunal/New_Screen/Animation800x480/content/pics/Tacho.png</file>
+    <file alias="pics/Tacho_Mitte.png">/home/kunal/New_Screen/Animation800x480/content/pics/Tacho_Mitte.png</file>
+    <file alias="pics/temp.png">/home/kunal/New_Screen/Animation800x480/content/pics/temp.png</file>
+    <file alias="pics/Tile.png">/home/kunal/New_Screen/Animation800x480/content/pics/Tile.png</file>
+    <file alias="pics/Trips.png">/home/kunal/New_Screen/Animation800x480/content/pics/Trips.png</file>
+    <file alias="pics/wifi.png">/home/kunal/New_Screen/Animation800x480/content/pics/wifi.png</file>
+    <file alias="images/EscortsLogo-removebg-preview.png">/home/kunal/New_Screen/Animation800x480/content/images/EscortsLogo-removebg-preview.png</file>
+    <file alias="images/Kubota-Logo.png">/home/kunal/New_Screen/Animation800x480/content/images/Kubota-Logo.png</file>
+  </qresource>
+</RCC>
+

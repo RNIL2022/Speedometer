@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/Animation800x480/">
+    <file alias="Constants.qml">/home/kunal/New_Screen/Animation800x480/imports/Animation800x480/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">/home/kunal/New_Screen/Animation800x480/imports/Animation800x480/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">/home/kunal/New_Screen/Animation800x480/imports/Animation800x480/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">/home/kunal/New_Screen/Animation800x480/imports/Animation800x480/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

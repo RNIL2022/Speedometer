@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Main">
+    <file alias="qmldir">/home/kunal/New_Screen/build-Animation800x480-Boot2Qt_6_5_1_Raspberry_Pi_4_64_bit-Debug/Main/qmldir</file>
+  </qresource>
+</RCC>
+

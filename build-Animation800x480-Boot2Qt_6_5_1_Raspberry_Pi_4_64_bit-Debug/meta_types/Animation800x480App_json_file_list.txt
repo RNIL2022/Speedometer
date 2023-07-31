@@ -1,0 +1,1 @@
+/home/kunal/New_Screen/build-Animation800x480-Boot2Qt_6_5_1_Raspberry_Pi_4_64_bit-Debug/Animation800x480App_autogen/include/../UVLADIE3JM/moc_serial.cpp.json
